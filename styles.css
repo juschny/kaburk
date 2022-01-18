@@ -364,7 +364,7 @@ img{
 .galeria-work .cont-work{
   width: 100%;
   box-shadow:0 0 6px 0 rgba(0,0,0,.5);
-  height:300px;
+  height:300%;
   overflow:hidden;
   margin-bottom:var(--espacios-contenido);
 }
