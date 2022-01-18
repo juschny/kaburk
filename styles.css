@@ -393,7 +393,7 @@ img{
   font-weight: 300;
 }
 
-footer{background:url(logo.jpg);background-size:cover;
+footer{background:url(logo.JPG);background-size:cover;
   background-position-y: center;}
 
 
@@ -463,7 +463,7 @@ footer p{
   }
   .icono{
     display:block;
-    cursor: pointer;
+    
     
     
    
