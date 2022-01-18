@@ -362,7 +362,7 @@ img{
 }
 
 .galeria-work .cont-work{
-  width: 30%;
+  width: 100%;
   box-shadow:0 0 6px 0 rgba(0,0,0,.5);
   height:300px;
   overflow:hidden;
@@ -557,7 +557,7 @@ footer p{
     
   }
   .cont-work{
-    width:85%;
+    width:10%;
    
   }
   .enlaces a{
