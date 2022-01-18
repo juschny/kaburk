@@ -473,7 +473,7 @@ footer p{
     top:80px;
     background:#c08fe9;
     left:0px;
-    height: 30%;
+    height: 100%;
     transition: 1s;
     opacity: .9;
     overflow: hidden;
