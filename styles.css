@@ -398,21 +398,21 @@ footer{background:url(logo.JPG);background-size:cover;
 
 
 
-  .marca-logo{
-    width:15%;
-    margin:auto;
-    margin-bottom: var(--espacios);
+ .marca-logo{
+   width:15%;
+   margin:auto;
+   margin-bottom: var(--espacios);
     
   
-  }
+ }
   
   
   
-  .marca-logo img{
-    display:flex;
-    margin:auto;
-    width:100%;
-    justify-content: space-around;
+ .marca-logo img{
+   display:flex;
+   margin:auto;
+   width:100%;
+   justify-content: space-around;
     
     
     
