@@ -45,21 +45,21 @@ $(function () {
     $('#enlace-nosotros').on('click', function (e) {
         e.preventDefault();
         $('html, body').animate({
-            scrollTop: 428
+            scrollTop: 916
         }, 600);
 
     });
     $('#enlace-galeria').on('click', function (e) {
         e.preventDefault();
         $('html, body').animate({
-            scrollTop: 2500
+            scrollTop: 2120
         }, 600);
 
     });
     $('#enlace-contacto').on('click', function (e) {
         e.preventDefault();
         $('html, body').animate({
-            scrollTop: 5020
+            scrollTop: 24925
         }, 600);
 
     });
