@@ -278,8 +278,8 @@ img{
 }
 
 .galeria-work .cont-work{
-  width: 100%;
-  box-shadow:0 0 6px 0 rgba(0,0,0,.5);
+  width: 90%;
+  box-shadow:0 0 6px 0 rgba(0,0,0,.9);
   height:100%;
   overflow:hidden;
   margin-bottom:var(--espacios-contenido);
@@ -289,7 +289,7 @@ img{
 
 
 .img-work{
-  height: 90%;
+  height: 100%;
   width: 100%;
 }
 
