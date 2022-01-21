@@ -439,7 +439,8 @@ footer p{
   .textos h1{
     font-size: 70px;
   }
-
+  .header{
+    float: left;
   
   .textos h2{
     font-size: 38px;
@@ -500,7 +501,8 @@ footer p{
     
 
   }  
-
+  .header{
+    float:left;
  
   .nav1{
     background: rgb(160, 81, 235);
