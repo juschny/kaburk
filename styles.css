@@ -90,7 +90,7 @@ img{
   nav .enlaces a:hover{
     border-bottom: 3px solid #c08fe9;
     transition: .5s;
-    transition:transform .5s ease-in-out;
+    transition:transform .5s;
     
     
     
@@ -390,7 +390,7 @@ footer p{
     background:#c08fe9;
     left:0px;
     height: 100%;
-    transition: 5s;
+    transition: 1s;
     opacity: .9;
     overflow: hidden;
     right: 100px;
