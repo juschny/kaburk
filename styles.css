@@ -435,21 +435,7 @@ footer p{
   .nav1{
     position:fixed;
   }
-  .header{
-    position: fixed;
-    width: 100%;
-    
-    background: linear-gradient(to bottom,
-     rgba(152, 95, 228, .6),
-     rgb(174, 209, 241, .6),
-     rgb(255, 254, 254, .5)
-    ), url(fondo.jpg);
-    background-attachment:fixed;
-    background-size:cover;
-    background-size:cover;
-    background-position-y: center;
-    
-  }
+ 
   .textos h1{
     font-size: 70px;
   }
@@ -514,12 +500,7 @@ footer p{
     
 
   }  
-  .header{
-    position: fixed;
-   
-    background-attachment:fixed;
-    background-size:cover;
-    
+
  
   .nav1{
     background: rgb(160, 81, 235);
