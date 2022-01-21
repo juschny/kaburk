@@ -50,8 +50,18 @@ img{
     background-size:cover;
     
     background-position-y: center;
+    animation: movimiento 10s infinite linear alternate;
     
     
+  }
+  @keyframes movimiento{
+    from{
+      background-position: bottom left;
+
+    }to{
+      background-position: top right;
+
+    }
   }
 
   nav{
